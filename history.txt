@@ -1,0 +1,6 @@
+1e81b38 HEAD@{0}: revert: Revert "Add wrong text"
+3731bda HEAD@{1}: commit: Add wrong text
+9c85614 HEAD@{2}: reset: moving to 9c85614
+11a3502 HEAD@{3}: reset: moving to 11a3502
+11a3502 HEAD@{4}: commit: Add wrong text
+9c85614 HEAD@{5}: commit (initial): Add some text
